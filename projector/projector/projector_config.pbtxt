@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "embedding:0"
+  metadata_path: "/Users/dali/Downloads/\346\210\221\347\232\204\351\241\271\347\233\256/tensorflow\345\237\272\347\241\200/projector/projector/metadata.tsv"
+  sprite {
+    image_path: "/Users/dali/Downloads/\346\210\221\347\232\204\351\241\271\347\233\256/tensorflow\345\237\272\347\241\200/projector/data/mnist_10k_sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
